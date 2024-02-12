@@ -1,7 +1,7 @@
 ## Seja bem-vindo!
 
 <h1 align="center">
-    <img src="denkybanner.webp" alt="banner">
+    <img src="https://cdn.discordapp.com/attachments/1205516562140889150/1206726231429619722/15_Sem_Titulo_20240211224902.png?ex=65dd0e61&is=65ca9961&hm=5287da8fbd7c96d5e493d4e20ea95d15a413bb7ca679c7980b1916864b08e3a9&" alt="banner" style="width:400px;height:300px;">
 </h1>
 
 Somos uma organização dedicada ao desenvolvimento e aprimoramento contínuo do Denky, um simples bot para Discord desde 2019! Nosso objetivo é fornecer uma experiência excepcional aos usuários, oferecendo uma ampla gama de funcionalidades para melhorar suas comunidades online.
