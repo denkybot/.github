@@ -1,6 +1,6 @@
 ## Seja bem-vindo!
 
-Somos uma organização dedicada ao desenvolvimento e aprimoramento contínuo do Denky, um simples bot para Discord. Nosso objetivo é fornecer uma experiência excepcional aos usuários, oferecendo uma ampla gama de funcionalidades para melhorar suas comunidades online.
+Somos uma organização dedicada ao desenvolvimento e aprimoramento contínuo do Denky, um simples bot para Discord desde 2019! Nosso objetivo é fornecer uma experiência excepcional aos usuários, oferecendo uma ampla gama de funcionalidades para melhorar suas comunidades online.
 
 ### Sobre o Denky! 🌟
 
